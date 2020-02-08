@@ -37,3 +37,10 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# git script에서는 data 안 되도록 하려고 한다.
+script/*.csv
+script/*.xlsx
+script/*.txt
+script/*.xls
+
